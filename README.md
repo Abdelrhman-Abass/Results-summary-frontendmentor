@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site: []([https://your-live-site-url.com](https://abdelrhman-abass.github.io/Results-summary-frontendmentor/))
+- Live Site: [Results summary component](https://abdelrhman-abass.github.io/Results-summary-frontendmentor/)
 
 ### Built with
 
